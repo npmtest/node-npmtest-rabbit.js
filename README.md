@@ -1,6 +1,6 @@
 # npmtest-rabbit.js
 
-#### test coverage for  [rabbit.js (v0.4.4)](http://github.com/squaremo/rabbit.js)  [![npm package](https://img.shields.io/npm/v/npmtest-rabbit.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rabbit.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rabbit.js.svg)](https://travis-ci.org/npmtest/node-npmtest-rabbit.js)
+#### basic test coverage for  [rabbit.js (v0.4.4)](http://github.com/squaremo/rabbit.js)  [![npm package](https://img.shields.io/npm/v/npmtest-rabbit.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rabbit.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rabbit.js.svg)](https://travis-ci.org/npmtest/node-npmtest-rabbit.js)
 
 #### Easy stream-based messaging using RabbitMQ
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-rabbit.js/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-rabbit.js/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-rabbit.js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-rabbit.js/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rabbit.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rabbit.js/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-rabbit.js/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-rabbit.js/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rabbit.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rabbit.js/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-rabbit.js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-rabbit.js/build/coverage.html/index.html)
 
@@ -94,7 +94,8 @@
             },
             "pkgid": "rabbit.js@0.4.4"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
 
